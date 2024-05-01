@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                                       http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.17.xsd">
+
+    <include file="classpath:liquibase/properties.xml"/>
+    <include file="classpath:liquibase/changelog-0.1.xml"/>
+    <include file="classpath:liquibase/changelog-0.2.xml"/>
+    <include file="classpath:liquibase/changelog-0.4.xml"/>
+    <include file="classpath:liquibase/changelog-0.5.xml"/>
+    <include file="classpath:liquibase/changelog-0.6.xml"/>
+    <include file="classpath:liquibase/changelog-0.7.xml"/>
+    <include file="classpath:liquibase/changelog-0.8.xml"/>
+    <include file="classpath:liquibase/changelog-0.9.xml"/>
+    <include file="classpath:liquibase/changelog-0.10.xml"/>
+    <include file="classpath:liquibase/changelog-0.11.xml"/>
+    <include file="classpath:liquibase/changelog-0.12.xml"/>
+    <include file="classpath:liquibase/changelog-0.13.xml"/>
+    <include file="classpath:liquibase/changelog-0.14.xml"/>
+    <include file="classpath:liquibase/changelog-0.15.xml"/>
+    <include file="classpath:liquibase/changelog-0.16.xml"/>
+    <include file="classpath:liquibase/changelog-0.17.xml"/>
+
+</databaseChangeLog>
